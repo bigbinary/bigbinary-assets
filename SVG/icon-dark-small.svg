@@ -1,0 +1,30 @@
+<svg width="250" height="250" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon-dark-small</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2557 -1095)">
+<g id="icon-dark-small">
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="translate(2557 1095)" fill="#FFFFFF"/>
+</g>
+<g id="B">
+<use xlink:href="#path1_fill" transform="translate(2620 1104)" fill="#B4D6F4"/>
+</g>
+<g id="B" filter="url(#filter0_d)">
+<use xlink:href="#path1_fill" transform="translate(2608 1095)" fill="#0F82E6"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="2624" y="1144" width="151" height="197" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="20" dy="20"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 0L 250 0L 250 250L 0 250L 0 0Z"/>
+<path id="path1_fill" d="M 16.543 206L 82.5 206C 94.8177 206 105.094 201.882 113.33 193.646C 121.637 185.769 125.863 175.062 126.006 161.527C 126.006 153.363 123.965 145.808 119.883 138.861C 115.514 132.13 109.069 127.654 100.547 125.434L 100.547 125.004C 105.059 122.855 108.854 120.456 111.934 117.807C 115.013 115.3 117.376 112.65 119.023 109.857C 122.246 103.985 123.786 97.8262 123.643 91.3809C 123.643 78.7767 119.74 68.6432 111.934 60.9805C 104.199 53.3893 92.6335 49.5221 77.2363 49.3789L 16.543 49.3789L 16.543 206ZM 76.8066 136.498C 85.6152 136.641 92.0605 138.969 96.1426 143.48C 100.225 148.064 102.266 153.578 102.266 160.023C 102.266 166.326 100.225 171.768 96.1426 176.352C 92.0605 181.007 85.6152 183.406 76.8066 183.549L 40.2832 183.549L 40.2832 136.498L 76.8066 136.498ZM 74.5508 70.541C 83.2161 70.6842 89.5898 72.7969 93.6719 76.8789C 97.8255 81.2474 99.9023 86.5827 99.9023 92.8848C 99.9023 99.1868 97.8255 104.415 93.6719 108.568C 89.5898 113.08 83.2161 115.336 74.5508 115.336L 40.2832 115.336L 40.2832 70.541L 74.5508 70.541Z"/>
+</defs>
+</svg>

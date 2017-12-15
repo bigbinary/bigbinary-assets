@@ -1,0 +1,32 @@
+<svg width="450" height="450" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon-dark</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3629 -1095)">
+<g id="icon-dark">
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="translate(3629 1095)" fill="#FFFFFF"/>
+</g>
+<g id="Group">
+<g id="B">
+<use xlink:href="#path1_fill" transform="translate(3744 1103)" fill="#B4D6F4"/>
+</g>
+<g id="B" filter="url(#filter0_d)">
+<use xlink:href="#path1_fill" transform="translate(3732 1094)" fill="#0F82E6"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="3760" y="1179" width="230" height="311" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="20" dy="20"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 0L 450 0L 450 450L 0 450L 0 0Z"/>
+<path id="path1_fill" d="M 28.5742 356L 142.5 356C 163.776 356 181.527 348.887 195.752 334.662C 210.101 321.055 217.399 302.562 217.646 279.184C 217.646 265.082 214.121 252.032 207.07 240.033C 199.525 228.406 188.392 220.674 173.672 216.84L 173.672 216.098C 181.465 212.387 188.021 208.243 193.34 203.666C 198.659 199.337 202.741 194.76 205.586 189.936C 211.152 179.792 213.812 169.154 213.564 158.021C 213.564 136.251 206.823 118.747 193.34 105.512C 179.98 92.3997 160.003 85.7201 133.408 85.4727L 28.5742 85.4727L 28.5742 356ZM 132.666 235.951C 147.881 236.199 159.014 240.219 166.064 248.012C 173.115 255.928 176.641 265.453 176.641 276.586C 176.641 287.471 173.115 296.872 166.064 304.789C 159.014 312.829 147.881 316.973 132.666 317.221L 69.5801 317.221L 69.5801 235.951L 132.666 235.951ZM 128.77 122.025C 143.737 122.273 154.746 125.922 161.797 132.973C 168.971 140.518 172.559 149.734 172.559 160.619C 172.559 171.505 168.971 180.535 161.797 187.709C 154.746 195.502 143.737 199.398 128.77 199.398L 69.5801 199.398L 69.5801 122.025L 128.77 122.025Z"/>
+</defs>
+</svg>
